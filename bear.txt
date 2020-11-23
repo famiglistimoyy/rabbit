@@ -1,2 +1,2 @@
 我在prettybear这个分支上修改了bear.txt这个文件
-我在master这个分支上修改了bear.txt这个文件
+我在master上面修改了
